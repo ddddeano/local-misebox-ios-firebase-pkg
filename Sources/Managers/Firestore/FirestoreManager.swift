@@ -1,6 +1,5 @@
 //
 //  FirestoreManager.swift
-//  
 //
 //  Created by Daniel Watson on 01.04.2024.
 //
